@@ -1,1 +1,1 @@
-www.google.com,https://raw.githubusercontent.com/johnharris4p/sec/master/1.txt
+http://www.google.com,https://raw.githubusercontent.com/johnharris4p/sec/master/1.txt
