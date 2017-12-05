@@ -1,1 +1,1 @@
-www.asdikfjasasdasddflknm.com,https://raw.githubusercontent.com/johnharris4p/sec/master/3.txt
+http://www.asdikfjasasdasddflknm.com,https://raw.githubusercontent.com/johnharris4p/sec/master/3.txt
